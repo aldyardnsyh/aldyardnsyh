@@ -1,97 +1,137 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C4B4&center=true&vCenter=true&width=500&lines=Hello+!+I'm+Aldy+Ardiansyah;AI+Enthusiast+%26+MLOps+Wizard;Building+Scalable+AI+Solutions" alt="Typing SVG" />
-</p>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=190&section=header&text=Aldy%20Ardiansyah&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Machine%20Learning%20Engineer&descAlignY=55&descSize=20&animation=fadeIn" alt="Aldy Ardiansyah — Machine Learning Engineer" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FE3FF&center=true&vCenter=true&width=640&height=45&lines=Turning+research+into+production+AI;Computer+Vision+%26+Deep+Learning;MLOps+%26+Scalable+AI+Systems;Full-Stack+Machine+Learning+Engineer" alt="Computer Vision, Deep Learning, MLOps" />
+
+<br />
+
+<a href="https://aldyardnsyh.my.id/"><img src="https://img.shields.io/badge/Portfolio-aldyardnsyh.my.id-4FE3FF?style=flat&labelColor=1A1B27&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/aldyardiansyah17"><img src="https://img.shields.io/badge/LinkedIn-aldyardiansyah17-0A66C2?style=flat&labelColor=1A1B27&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/ItsmeAldy17"><img src="https://img.shields.io/badge/Earlier%20Work-ItsmeAldy17-181717?style=flat&labelColor=1A1B27&logo=github&logoColor=white" alt="Earlier work on ItsmeAldy17" /></a>
+<img src="https://img.shields.io/badge/Open%20to%20Work-4FE3FF?style=flat&labelColor=1A1B27" alt="Open to work" />
+
+</div>
 
 ---
 
-<h1 align="center">👋 Hi there! I'm Aldy Ardiansyah</h1>
+### About
 
-<p align="center">
-  <em>Crafting impactful AI solutions with a passion for <b>Computer Vision</b>, <b>Deep Learning</b>, and <b>MLOps</b> 🚀</em>
-</p>
+Full-Stack Machine Learning Engineer based in **Yogyakarta, Indonesia**, with a Software Engineering Technology background from **Universitas Gadjah Mada (UGM)**. I build machine learning systems that hold up in production — from real-time computer vision for the oil & gas industry to IoT health-monitoring devices and UAV ground control stations.
 
-<p align="center">
-  I'm a tech enthusiast on a mission to build scalable, efficient, and innovative systems. Currently diving deep into <b>MLOps</b> to streamline AI workflows, while exploring the exciting worlds of <b>LLMs</b>, <b>RAG</b>, and <b>Data Science</b>. I love bridging AI with <b>web</b> and <b>mobile app development</b> to create seamless, real-world solutions.
-</p>
+- **Focus** — Computer Vision, Deep Learning, MLOps
+- **Shipped** — real-time detection & estimation, RAG assistants, OCR pipelines, full-stack web platforms
+- **Recognition** — 7 national and international awards, including overall champion at KRTI 2025
+- **Currently** — Research Paper Assistant at SV UGM, benchmarking segmentation models for real-time deployment
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF" />
-</p>
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/3%2B%20Years-Experience-4FE3FF?style=flat&labelColor=1A1B27" alt="3+ years experience" />
+<img src="https://img.shields.io/badge/7-Awards-4FE3FF?style=flat&labelColor=1A1B27" alt="7 awards" />
+<img src="https://img.shields.io/badge/18-Projects-4FE3FF?style=flat&labelColor=1A1B27" alt="18 projects" />
+<img src="https://img.shields.io/badge/5-Press%20Features-4FE3FF?style=flat&labelColor=1A1B27" alt="5 press features" />
 
-## 🌟 About Me
-
-- 🔭 **Currently working on**: Optimizing AI pipelines with MLOps and building cutting-edge applications.
-- 🌱 **Learning**: Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and advanced Data Science techniques.
-- 💻 **Passionate about**: Creating scalable AI systems, computer vision, and integrating AI with web/mobile platforms.
-- 🎯 **Goal**: To innovate and solve real-world problems through AI and full-stack development.
-- ⚡ **Fun fact**: I believe code is poetry, and AI is the muse! 😄
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Azure%20SQL-0089D6?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure SQL" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white" alt="Socket.IO" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
+<div align="center">
+
+**Machine Learning & Data**
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn,fastapi,flask&theme=dark" alt="Python, PyTorch, TensorFlow, OpenCV, Scikit-learn, FastAPI, Flask" />
+
+**Web & Mobile**
+
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,nextjs,laravel,php,kotlin,java,tailwind&theme=dark" alt="TypeScript, JavaScript, Node.js, Express, Next.js, Laravel, PHP, Kotlin, Java, Tailwind CSS" />
+
+**Data, Cloud & Tooling**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,firebase,docker,git,linux,github,vscode,vercel&theme=dark" alt="MySQL, MongoDB, PostgreSQL, SQLite, Firebase, Docker, Git, Linux, GitHub, VS Code, Vercel" />
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+### GitHub in Numbers
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldyardnsyh&layout=compact&theme=radical&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=6" alt="Top Languages" width="350" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldyardnsyh&theme=radical&hide_border=true" alt="GitHub Streak" width="485" />
-</p>
+<div align="center">
 
----
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=aldyardnsyh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=issues,contribs" alt="GitHub stats" />
+<img height="150" src="https://streak-stats.demolab.com/?user=aldyardnsyh&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 
-## 🏆 GitHub Trophies
+<br />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ItsmeAldy17&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldyardnsyh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=420" alt="Most used languages" />
 
----
+<br />
 
-## 🌐 Let's Connect
+<img width="90%" src="https://trophy.ryglcloud.net/?username=aldyardnsyh&theme=tokyonight&no-frame=true&no-bg=true&title=Stars,Followers,Commits,Repositories,Experience,PullRequest" alt="GitHub trophies" />
 
-<p align="center">
-  <a href="https://aldyardnsyh.my.id/"><img src="https://img.shields.io/badge/Portfolio-00C4B4?style=flat&logo=web&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/aldyardiansyah17"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/ItsmeAldy"><img src="https://img.shields.io/badge/Main%20GitHub-181717?style=flat&logo=github&logoColor=white" alt="Main GitHub" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ItsmeAldy17&color=00C4B4&style=flat" alt="Profile Views" />
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <em>"Code is like magic – with the right spell, you can change the world!" ✨</em>
-</p>
+### Featured Work
+
+<div align="center">
+
+<a href="https://github.com/aldyardnsyh/ShaleShakerCuttingMonitor"><img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=aldyardnsyh&repo=ShaleShakerCuttingMonitor&theme=tokyonight&hide_border=true&description_lines_count=3" alt="ShaleShakerCuttingMonitor" /></a>
+<a href="https://github.com/aldyardnsyh/IntelligenceDocumentSystem"><img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=aldyardnsyh&repo=IntelligenceDocumentSystem&theme=tokyonight&hide_border=true&description_lines_count=3" alt="IntelligenceDocumentSystem" /></a>
+
+<a href="https://github.com/aldyardnsyh/smart-document-scanner"><img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=aldyardnsyh&repo=smart-document-scanner&theme=tokyonight&hide_border=true&description_lines_count=3" alt="smart-document-scanner" /></a>
+<a href="https://github.com/aldyardnsyh/Lolos-CV"><img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=aldyardnsyh&repo=Lolos-CV&theme=tokyonight&hide_border=true&description_lines_count=3" alt="Lolos-CV" /></a>
+
+<a href="https://github.com/aldyardnsyh/VisitBantaragung"><img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=aldyardnsyh&repo=VisitBantaragung&theme=tokyonight&hide_border=true&description_lines_count=3" alt="VisitBantaragung" /></a>
+<a href="https://github.com/aldyardnsyh/PasFotoIn"><img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=aldyardnsyh&repo=PasFotoIn&theme=tokyonight&hide_border=true&description_lines_count=3" alt="PasFotoIn" /></a>
+
+</div>
+
+---
+
+### Experience & Recognition
+
+**Experience**
+
+| Role | Organization | Period |
+| :--- | :--- | :--- |
+| Research Paper Assistant | SV UGM · Part-time | 2026 — Present |
+| Machine Learning Engineer | Advisor Lauren Co., Ltd · South Korea | 2025 — 2026 |
+| Full-Stack Machine Learning Engineer | PT Parama Data Unit | 2025 |
+| Machine Learning Engineer (Intern) | PT Parama Data Unit | 2024 — 2025 |
+
+**Selected Highlights**
+
+- Led ~40 annotators across Indonesia to build a **100,000-image vision-language dataset** for wind turbine blade defect detection.
+- Built a **real-time computer vision system** for shale shaker cuttings estimation in the oil & gas industry, integrated via WITS-Level-0 protocols.
+- Benchmarking **YOLOv8s-seg against Mask R-CNN** for real-time instance segmentation — two papers under review.
+
+**Recognition**
+
+- 🥇 **Overall Champion (Juara Umum)** — Kontes Robot Terbang Indonesia (KRTI) 2025, Gamaforce UGM
+- 🥈 **2nd Place** — Hackathon elevAIte Indonesia 2025 · *SleepSense*, IoT sleep apnea monitor
+- 🥈 **2nd Place + People's Choice Award** — Samsung Innovation Campus Batch 5 · *MotoRescue*
+- 🥇 **1st Place** — KRTI 2024, Technology Development Division
+- 🏅 **Finalist** — ProtoTech Contest 2.0, IEEE ITB
+
+---
+
+### Connect
+
+<div align="center">
+
+<a href="https://aldyardnsyh.my.id/"><img src="https://img.shields.io/badge/Portfolio-4FE3FF?style=for-the-badge&labelColor=1A1B27&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/aldyardiansyah17"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&labelColor=1A1B27&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/ItsmeAldy17"><img src="https://img.shields.io/badge/ItsmeAldy17-181717?style=for-the-badge&labelColor=1A1B27&logo=github&logoColor=white" alt="ItsmeAldy17" /></a>
+
+<br />
+
+<img src="https://img.shields.io/github/followers/aldyardnsyh?label=Followers&style=flat&color=4FE3FF&labelColor=1A1B27&logo=github&logoColor=white" alt="Followers" />
+<img src="https://img.shields.io/github/stars/aldyardnsyh?label=Stars&style=flat&color=4FE3FF&labelColor=1A1B27&logo=github&logoColor=white" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=aldyardnsyh&color=4FE3FF&style=flat&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" alt="" />

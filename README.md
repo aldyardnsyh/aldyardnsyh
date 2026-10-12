@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=190&section=header&text=Aldy%20Ardiansyah&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Machine%20Learning%20Engineer&descAlignY=55&descSize=20&animation=fadeIn" alt="Aldy Ardiansyah, Machine Learning Engineer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4FE3FF,50:1A1B27,100:4FE3FF&height=190&section=header&text=Aldy%20Ardiansyah&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Machine%20Learning%20Engineer&descAlignY=55&descSize=20&animation=fadeIn" alt="Aldy Ardiansyah, Machine Learning Engineer" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FE3FF&center=true&vCenter=true&width=640&height=45&lines=Turning+research+into+production+AI;Computer+Vision+%26+Deep+Learning;MLOps+%26+Scalable+AI+Systems;Full-Stack+Machine+Learning+Engineer" />
@@ -137,4 +137,4 @@ Machine Learning Engineer based in Yogyakarta, Indonesia, with a background in S
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4FE3FF,50:1A1B27,100:4FE3FF&height=120&section=footer" alt="" />

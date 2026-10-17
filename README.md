@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4FE3FF,50:1A1B27,100:4FE3FF&height=190&section=header&text=aldyardnsyh&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=build%20lab%20%C2%B7%20fullstack%20ML%20engineer&descAlignY=55&descSize=20&animation=fadeIn" alt="aldyardnsyh, build lab" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:04070D,18:0B2E4F,36:4FE3FF,50:FFFFFF,64:4FE3FF,82:0B2E4F,100:04070D&height=200&section=header&text=Aldy%20Ardiansyah&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=fullstack%20ML%20engineer%20%C2%B7%20build%20lab&descAlignY=57&descSize=19&animation=fadeIn" alt="Aldy Ardiansyah, fullstack ML engineer" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FE3FF&center=true&vCenter=true&width=680&height=45&lines=This+is+where+the+repos+live;CV+%C2%B7+OCR+%C2%B7+RAG+%C2%B7+IoT+%C2%B7+web;Shipped%2C+demoable%2C+open+source;Pick+a+repo+and+break+it" />
@@ -233,7 +233,7 @@ Full write-ups, screenshots, and outcomes for each: [aldyardnsyh.my.id/all-proje
 
 <img src="https://img.shields.io/github/followers/aldyardnsyh?label=Followers&style=flat&color=4FE3FF&labelColor=1A1B27&logo=github&logoColor=white" alt="Followers" />
 <img src="https://img.shields.io/github/stars/aldyardnsyh?label=Stars&style=flat&color=4FE3FF&labelColor=1A1B27&logo=github&logoColor=white" alt="Stars" />
-<img src="https://komarev.com/ghpvc/?username=aldyardnsyh&color=0E7490&style=flat&label=Profile+Views" alt="Profile views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=aldyardnsyh.aldyardnsyh&left_text=Profile%20Views&left_color=%231A1B27&right_color=%230E7490" alt="Profile views" />
 
 </div>
 
@@ -256,4 +256,4 @@ Open to full-time ML roles, freelance builds, and research collaborations in com
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4FE3FF,50:1A1B27,100:4FE3FF&height=120&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:04070D,18:0B2E4F,36:4FE3FF,50:FFFFFF,64:4FE3FF,82:0B2E4F,100:04070D&height=130&section=footer" alt="" />

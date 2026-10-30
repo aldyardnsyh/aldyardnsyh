@@ -51,18 +51,21 @@ These days I mostly build document intelligence: OCR pipelines that emit structu
 
 ### Featured repositories
 
-Six repos that best represent what I do. Each one has a README worth reading.
+Nine repos that best represent what I do. Each one has a README worth reading.
 
 <div align="center">
 
-<a href="https://github.com/aldyardnsyh/IntelligenceDocumentSystem"><img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=aldyardnsyh&repo=IntelligenceDocumentSystem&theme=tokyonight&hide_border=true&description_lines_count=3" alt="IntelligenceDocumentSystem" /></a>
-<a href="https://github.com/aldyardnsyh/smart-document-scanner"><img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=aldyardnsyh&repo=smart-document-scanner&theme=tokyonight&hide_border=true&description_lines_count=3" alt="smart-document-scanner" /></a>
-
-<a href="https://github.com/aldyardnsyh/ShaleShakerCuttingMonitor"><img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=aldyardnsyh&repo=ShaleShakerCuttingMonitor&theme=tokyonight&hide_border=true&description_lines_count=3" alt="ShaleShakerCuttingMonitor" /></a>
-<a href="https://github.com/aldyardnsyh/PasFotoIn"><img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=aldyardnsyh&repo=PasFotoIn&theme=tokyonight&hide_border=true&description_lines_count=3" alt="PasFotoIn" /></a>
-
-<a href="https://github.com/aldyardnsyh/Lolos-CV"><img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=aldyardnsyh&repo=Lolos-CV&theme=tokyonight&hide_border=true&description_lines_count=3" alt="Lolos-CV" /></a>
-<a href="https://github.com/aldyardnsyh/Building-Automation-System"><img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=aldyardnsyh&repo=Building-Automation-System&theme=tokyonight&hide_border=true&description_lines_count=3" alt="Building-Automation-System" /></a>
+| Repository | What it does |
+| :--- | :--- |
+| [IntelligenceDocumentSystem](https://github.com/aldyardnsyh/IntelligenceDocumentSystem) | RAG assistant over PDF, TXT, and Markdown with traceable citations. Python, FastAPI, Next.js, ChromaDB, Groq, Ollama. |
+| [smart-document-scanner](https://github.com/aldyardnsyh/smart-document-scanner) | Scan pipeline with RapidOCR on ONNX Runtime, structured JSON with confidence per field. Python, FastAPI, Docker. |
+| [ShaleShakerCuttingMonitor](https://github.com/aldyardnsyh/ShaleShakerCuttingMonitor) | Rock cutting estimation on shale shakers with MobileViT and BiSeNet v2. FastAPI, Next.js, ONNX Runtime, Docker. |
+| [PasFotoIn](https://github.com/aldyardnsyh/PasFotoIn) | Indonesian ID photo editor, fully on device. Next.js, TypeScript, ONNX Runtime Web. |
+| [Lolos-CV](https://github.com/aldyardnsyh/Lolos-CV) | Free ATS resume builder working backwards from the job posting. Next.js, TypeScript, AI SDK. |
+| [Building-Automation-System](https://github.com/aldyardnsyh/Building-Automation-System) | Building automation dashboard over OPC UA, MQTT, and Modbus. Next.js, TypeScript. |
+| [MyRouter](https://github.com/aldyardnsyh/MyRouter) | Self-hosted AI routing gateway, single Go binary. Go, SQLite, React, TypeScript. |
+| [ShelfOpsRetail](https://github.com/aldyardnsyh/ShelfOpsRetail) | Retail operations platform with vision analytics and cited Copilot. Next.js, Go, Python, PostgreSQL. |
+| [DataLoom](https://github.com/aldyardnsyh/DataLoom) | Data operator workspace with quality gates and human approval. Next.js 15, FastAPI, DuckDB, LangGraph. |
 
 </div>
 
@@ -99,6 +102,7 @@ Grouped by what they actually do, not by when I started them. Breadth first, bec
 | [VisitBantaragung](https://github.com/aldyardnsyh/VisitBantaragung) | Official tourism platform for Desa Wisata Bantaragung: destinations, herbal village catalog, news, and an interactive map, built with the KKN-PPM UGM team. | Next.js, TypeScript, Tailwind |
 | [websocket_simulation](https://github.com/aldyardnsyh/websocket_simulation) | Small harness for simulating the WebSocket protocol, written while building the real-time detection data layer. | JavaScript, Node.js |
 | [bookshelf-api-dicoding](https://github.com/aldyardnsyh/bookshelf-api-dicoding) | REST API doing full CRUD on books, my cleanest example of Node.js service structure. | Node.js, Hapi.js |
+| [RigDaily](https://github.com/aldyardnsyh/RigDaily) | Daily drilling report flow: DDR, 24 hour breakdown, NPT, cost and AFE, billing, personnel, safety, rig to office sync. Next.js web plus offline-first Electron desktop with local SQLite and outbox sync. | Next.js, Electron, SQLite, PostgreSQL, Drizzle |
 
 <details>
 <summary><b>Older work and coursework (mostly 2023 and earlier)</b></summary>
@@ -196,16 +200,16 @@ Full write-ups, screenshots, and outcomes for each: [aldyardnsyh.my.id/all-proje
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=aldyardnsyh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=issues,contribs" alt="GitHub stats" />
-<img height="150" src="https://streak-stats.demolab.com/?user=aldyardnsyh&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+<img src="https://img.shields.io/github/followers/aldyardnsyh?label=Followers&style=for-the-badge&color=4FE3FF&labelColor=1A1B27&logo=github&logoColor=white" alt="Followers" />
+<img src="https://img.shields.io/github/stars/aldyardnsyh?label=Total%20stars&style=for-the-badge&color=4FE3FF&labelColor=1A1B27&logo=github&logoColor=white" alt="Total stars" />
 
 <br />
 
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldyardnsyh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=420" alt="Most used languages" />
-
-<br />
-
-<img width="90%" src="https://trophy.ryglcloud.net/?username=aldyardnsyh&theme=tokyonight&no-frame=true&title=Commits,Repositories,Experience,PullRequest,Stars,Followers" alt="GitHub trophies" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&labelColor=1A1B27&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&labelColor=1A1B27&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&labelColor=1A1B27&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&labelColor=1A1B27&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&labelColor=1A1B27&logo=fastapi&logoColor=white" alt="FastAPI" />
 
 </div>
 
